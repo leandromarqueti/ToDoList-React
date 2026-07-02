@@ -43,3 +43,5 @@ npm install
 # 4. Execute o servidor de desenvolvimento local
 npm run dev
 # ou se preferir utilizar o yarn: yarn dev
+
+💡 Após iniciar o servidor, abra o endereço indicado no seu terminal (geralmente http://localhost:5173) no seu navegador para visualizar a aplicação rodando.
